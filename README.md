@@ -122,9 +122,3 @@ ToDoList is a simple and efficient web application for task management, develope
 ![frame3](./todos/img/frameus3.png)
 
 ---
-
-## 📄 Licença / License
-
-Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
